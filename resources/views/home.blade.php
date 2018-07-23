@@ -21,7 +21,7 @@
             line-height: 75px;
             margin: .5em;
             width: 42%;
-            
+
         }
         .partner-link img{
           max-height: 64px;
@@ -55,7 +55,7 @@
                 <a target="_blank" href="https://play.google.com/store/apps/details?id=com.heroescompanion.app" class="partner-link"><img src="{{asset('/img/logo-heroescompanion.png')}}"></a>
     			      <a target="_blank" href="https://hots.academy" class="partner-link"><img src="{{asset('/img/logo-hotsacademy.png')}}"></a>
     			      <a target="_blank" href="https://heroesshare.net" class="partner-link"><img src="{{asset('/img/logo-heroesshare.png')}}"></a>
-          	    <a target="_blank" href="https://heroesprofile.com" class="partner-link"><img src="{{asset('/img/logo-heroesprofile.png')}}"></a>
+          	    <a target="_blank" href="https://www.heroesprofile.com" class="partner-link"><img src="{{asset('/img/logo-heroesprofile.png')}}"></a>
             </div>
         </div>
     </div>
